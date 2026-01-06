@@ -1,0 +1,47 @@
+# jemdoc: menu{MENU}{example.html}
+= Experience
+
+# If the first line of the file starts with +\# jemdoc+, special functions like [menu.html menus] will be used.
+
+== Education
+
+- Ph.D. in Information Engineering, The Chinese University of Hong Kong, \[08\/2018 - 09\/2022\]
+	-- Advisor: [https://staff.ie.cuhk.edu.hk/~yjzhang/ Prof. Angela Ying-Jun Zhang], /IEEE Fellow/
+
+- B.Eng. in Information Engineering, South China University of Technology, \[09\/2013 - 06\/2017\]
+
+== Academic Positions
+
+- *Assistant Professor \[01\/2026 - Present\]*, School of Data Science, Lingnan University
+- Research Assistant Professor \[03\/2023 - 12\/2025\], Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+- Post-Doctoral Fellow \[10\/2022 - 03\/2023\], Department of Electronic and Computer Engineering, The Hong Kong University of Science and Technology
+	-- Advisor: [https://eejzhang.people.ust.hk/ Prof. Jun Zhang], /IEEE Fellow/
+- Research Assistant \[03\/2018 - 07\/2018\], Department of Information Engineering, The Chinese University of Hong Kong
+	-- Advisor: [https://staff.ie.cuhk.edu.hk/~yjzhang/ Prof. Angela Ying-Jun Zhang], /IEEE Fellow/
+
+#== Instructor
+#- ELEC2600: /Probability and Random Processes in Engineering/, ECE, HKUST, 2023-24 Spring
+#- ELEC4900: /Final Year Project/, ECE, HKUST, 2023-24
+
+#== Teaching Assistant at CUHK
+
+#- IERG3310: /Computer Networks/, 2019-20 Fall
+#- ENGG2310B: /Principles of Communication Systems/, 2019-20 Spring, 2020-21 Spring
+#- IERG3080A: /Information and Software Engineering Practice/, 2020-21 Fall, 2021-22 Fall
+#- CSCI2100F: /Data Structures/, 2021-22 Spring
+#- IERG4998-4999: /Final Year Project I-II/, 2021-22
+
+
+#== Mentorship
+
+#- Final Year Project: Federated Learning in Wireless Channels (Elite Stream)
+#	-- Yuan Ma (Undergraduate, CUHK, MIE, 2022)
+#	-- Jinpei Zhao (Undergraduate, CUHK, MIE, 2022)
+#
+#- Final Year Project: Federated Learning in Wireless Channels
+#	-- Ho Man Lam (Undergraduate, CUHK, IE, 2022)
+#	-- Yiu Lun Kong (Undergraduate, CUHK, IE, 2022)
+
+
+
+
